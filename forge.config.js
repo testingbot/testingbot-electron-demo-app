@@ -22,7 +22,12 @@ module.exports = {
   makers: [
     {
       name: '@electron-forge/maker-squirrel',
-      config: {},
+      config: {
+        options: {
+          authors: 'TestingBot',
+          description: 'TestingBot Demo Electro App'
+        }
+      },
     },
     {
       name: '@electron-forge/maker-zip',
