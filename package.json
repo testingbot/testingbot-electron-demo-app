@@ -10,10 +10,8 @@
     "make": "electron-forge make",
     "publish": "electron-forge publish"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["electron", "testingbot", "electron demo"],
+  "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^7.4.0",
     "@electron-forge/maker-deb": "^7.4.0",
