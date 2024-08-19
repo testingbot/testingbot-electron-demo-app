@@ -1,5 +1,6 @@
 {
   "name": "testingbot-electron-demo-app",
+  "description": "This is a demo Electron app built by TestingBot to showcase automated testing against Electron-based apps",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
