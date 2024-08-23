@@ -8,7 +8,7 @@ This repository contains a simple calculator app, built by TestingBot to demonst
 
 Below is an example on how to run this demo Electron app on TestingBot's remote machines:
 
-```nodejs
+```javascript
 const { Builder, By } = require('selenium-webdriver');
 const { Options } = require('selenium-webdriver/chrome');
 
